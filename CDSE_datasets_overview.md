@@ -86,7 +86,7 @@ Here is the formatted text with clean Markdown structure and all the Copernicus 
 * **Temperature:**
 * Land Surface Temperature 3km Hourly [°K], Istanbul, 19 August 2026: [link.dataspace.copernicus.eu/i852](https://www.google.com/search?q=https://link.dataspace.copernicus.eu/i852) --> *now click "show latest date" - what do you see? Don't forget this is hourly data - published with about 3h latency*
 * Thermal Condition Index 3km 10-daily v3, Istanbul, 01 August 2026: [link.dataspace.copernicus.eu/zsrs](https://www.google.com/search?q=https://link.dataspace.copernicus.eu/zsrs)
-* LST Daily cycle 3km 10-daily v3, LST Median, Istanbul 01 August 2026: [link.dataspace.copernicus.eu/y0zc](https://www.google.com/search?q=https://link.dataspace.copernicus.eu/y0zc) --> *as background datasets for models, or as robust clean data for machine learning...*
+* LST Daily cycle 3km 10-daily v3, LST Median, Istanbul 01 August 2026: [link.dataspace.copernicus.eu/tf2g](https://www.google.com/search?q=https://link.dataspace.copernicus.eu/tf2g) --> *as background datasets for models, or as robust clean data for machine learning...*
 * Lake Surface Water Temperature 1km 10-daily [°K], Lago di Garda, 1 Aug 2026: [link.dataspace.copernicus.eu/y0zc](https://www.google.com/search?q=https://link.dataspace.copernicus.eu/y0zc)
 
 
