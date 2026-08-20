@@ -1,6 +1,6 @@
-Here is the formatted text with clean Markdown structure and all the Copernicus Browser links properly activated.
+List of demo locations for exploring datasets in CDSE
 
-# 1 Minute Intro to Copernicus Browser
+## 1 Minute Intro to Copernicus Browser
 
 * Calendar panel
 * Configurations
