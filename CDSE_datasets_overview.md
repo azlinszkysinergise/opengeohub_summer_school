@@ -140,4 +140,4 @@ List of demo locations for exploring datasets in CDSE
 
 ### **Everything else:**
 
-* WMS panel!
+* WMS panel - test with https://wms.geo.admin.ch/
